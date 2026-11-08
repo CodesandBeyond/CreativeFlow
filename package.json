@@ -1,0 +1,6 @@
+{
+  "name":"creativeflow","version":"1.0.0","private":true,"type":"module",
+  "description":"Self-hosted freelancer project management and client portal",
+  "scripts":{"start":"node --disable-warning=ExperimentalWarning server.js","dev":"node --watch --disable-warning=ExperimentalWarning server.js"},
+  "engines":{"node":">=22.5.0"}
+}
